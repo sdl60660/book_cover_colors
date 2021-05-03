@@ -1,0 +1,4 @@
+colorthief
+colormap
+easydev
+scikit-image
