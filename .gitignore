@@ -2,3 +2,4 @@ virtualenv
 .DS_Store
 
 data_processing/data/dataset
+data_processing/updated_data/dataset
